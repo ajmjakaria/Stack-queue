@@ -1,8 +1,3 @@
-
-
-
-
-
 #include<stdio.h>
 #include <ctype.h>
 #define SIZE 50            /* Size of Stack */
